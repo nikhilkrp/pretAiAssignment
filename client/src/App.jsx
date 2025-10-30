@@ -2,7 +2,7 @@
 import { Routes,Route } from "react-router-dom"
 import Dashboard from './pages/Dashboard'
 import SignIn from "./pages/SignIn"
-import Profile from "./pages/profile"
+import Profile from "./pages/Profile"
 import ProtectedRoute from "./components/ProtectedRoute"
 
 
